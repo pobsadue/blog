@@ -6,7 +6,7 @@
     <entry>
       <title><![CDATA[Intro-to-Hexo]]></title>
       <url>https://pobsadue.github.io/blog/blog/2016/Intro-to-Hexo/</url>
-      <content type="html"><![CDATA[<p>在學習編程的過程中，常常想把自己心得做些整理後，放在網站上作為紀錄。由於呈現內容均為靜態資料，評估 JekyII、Wordpress、Hexo、與自架主機得失後。最後決定以 Hexo 搭配 Github pages 的方式建立（此二者均為免費），而目前此 blog 就是以此方式建立。</p>
+      <content type="html"><![CDATA[<p>在學習編程的過程中，常常想把自己心得做些整理後，放在網站上作為紀錄。由於呈現內容均為靜態資料，評估 JekyII、Wordpress、Hexo、與自架主機得失後。最後決定以 Hexo 搭配 Github pages 的方式建立（此二者均為免費），目前此 blog 就是以此方式建立。</p>
 <a id="more"></a>
 <h3 id="什麼是-Hexo"><a href="#什麼是-Hexo" class="headerlink" title="什麼是 Hexo?"></a>什麼是 Hexo?</h3><p><a href="https://hexo.io/zh-tw/docs/" target="_blank" rel="external">Hexo</a> 是一個快速、簡單且強大的網誌框架。Hexo 使用 <a href="http://markdown.tw/" target="_blank" rel="external">Markdown</a>（或其他渲染引擎）解析你所編輯的文章，並在幾秒鐘內，透過漂亮的主題產生靜態檔案。目前此 blog 就是以此方式建立。</p>
 <h3 id="什麼是-Markdown-格式"><a href="#什麼是-Markdown-格式" class="headerlink" title="什麼是 Markdown 格式?"></a>什麼是 Markdown 格式?</h3><p><a href="http://markdown.tw/" target="_blank" rel="external">Markdown</a> 的目標是實現「易讀易寫」。</p>
