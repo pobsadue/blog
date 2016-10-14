@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+  
+    
+    <entry>
+      <title><![CDATA[Intro-to-Hexo]]></title>
+      <url>https://pobsadue.github.io/blog/blog/2016/Intro-to-Hexo/</url>
+      <content type="html"><![CDATA[<p>在學習編程的過程中，常常想把自己心得做些整理後，放在網站上作為紀錄。由於呈現內容均為靜態資料，評估 JekyII、Wordpress、Hexo、與自架主機得失後。最後決定以 Hexo 搭配 Github pages 的方式建立（此二者均為免費），而目前此 blog 就是以此方式建立。</p>
+<a id="more"></a>
+<h3 id="什麼是-Hexo"><a href="#什麼是-Hexo" class="headerlink" title="什麼是 Hexo?"></a>什麼是 Hexo?</h3><p><a href="https://hexo.io/zh-tw/docs/" target="_blank" rel="external">Hexo</a> 是一個快速、簡單且強大的網誌框架。Hexo 使用 <a href="http://markdown.tw/" target="_blank" rel="external">Markdown</a>（或其他渲染引擎）解析你所編輯的文章，並在幾秒鐘內，透過漂亮的主題產生靜態檔案。目前此 blog 就是以此方式建立。</p>
+<h3 id="什麼是-Markdown-格式"><a href="#什麼是-Markdown-格式" class="headerlink" title="什麼是 Markdown 格式?"></a>什麼是 Markdown 格式?</h3><p><a href="http://markdown.tw/" target="_blank" rel="external">Markdown</a> 的目標是實現「易讀易寫」。</p>
+<p>不過更要強調的是它的可讀性。一份使用 Markdown 格式撰寫的文件應該可以直接以純文字發佈（閱讀），並且看起來不會像是由許多標籤或是格式指令所構成。有關語法說明，請見 <a href="http://markdown.tw/" target="_blank" rel="external">http://markdown.tw/</a>.</p>
+<h3 id="如何編寫-Markdown-格式文件"><a href="#如何編寫-Markdown-格式文件" class="headerlink" title="如何編寫 Markdown 格式文件?"></a>如何編寫 Markdown 格式文件?</h3><p>基本上，只要用任何文字編輯器均可編寫 Markdown 格式文件，因為 MarkDown 的目標就是可以直接以純文字發佈（閱讀）。不過若有 Markdown 閱讀器，則可呈現一般網頁效果，這樣還是會比直接觀看純文字版的 MarkDown 格式文件來得舒適。我採用 <a href="https://www.sublimetext.com/3" target="_blank" rel="external">sublime text 3</a> 編輯器，安裝 <a href="https://github.com/SublimeText-Markdown/MarkdownEditing" target="_blank" rel="external">MarkDown Editing</a> 與 <a href="https://github.com/revolunet/sublimetext-markdown-preview" target="_blank" rel="external">MarkDown Preview</a> 兩個 Packages.</p>
+<h3 id="如何安裝-Hexo"><a href="#如何安裝-Hexo" class="headerlink" title="如何安裝 Hexo?"></a>如何安裝 Hexo?</h3><h3 id="如何安裝-Hexo-的主題-theme"><a href="#如何安裝-Hexo-的主題-theme" class="headerlink" title="如何安裝 Hexo 的主題(theme)?"></a>如何安裝 Hexo 的主題(theme)?</h3><h3 id="如何將-Hexo-所產生的網頁上傳到-Github-Pages"><a href="#如何將-Hexo-所產生的網頁上傳到-Github-Pages" class="headerlink" title="如何將 Hexo 所產生的網頁上傳到 Github Pages?"></a>如何將 Hexo 所產生的網頁上傳到 Github Pages?</h3>]]></content>
+    </entry>
+    
+  
+  
+</search>
